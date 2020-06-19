@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package unique-identifier="prng-uuid" version="3.0" xml:lang="en-US" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>An Introduction to Second Life</dc:title>
+    <dc:description>A guide to Second Life for n00bs</dc:description>
+    <dc:type>Book Genre</dc:type>
+    <dc:language>en-US</dc:language>
+    <dc:date>2020-07-31</dc:date>
+    <dc:creator id="author0">Pipfrosch</dc:creator>
+    <meta property="role" refines="#author0" scheme="marc:relators">aut</meta>
+    <dc:identifier id="prng-uuid">78e5e5d9-ce2d-ae98-32c3-eb12012cb2b2</dc:identifier>
+    <meta property="marc:scheme" refines="#prng-uuid">uuid</meta>
+    <meta property="dcterms:modified">2020-06-19T08:22:43Z</meta>
+  </metadata>
+  <manifest>
+  </manifest>
+  <spine>
+  </spine>
+</package>
